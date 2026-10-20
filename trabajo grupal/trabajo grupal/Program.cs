@@ -38,8 +38,16 @@ class Program
     // Opcion 2 (la programa B)
     static void Suma()
     {
-        Console.WriteLine("En construccion");
-    }
+    Console.Write("Ingrese el primer número: ");
+    double num1 = double.Parse(Console.ReadLine());
+
+    Console.Write("Ingrese el segundo número: ");
+    double num2 = double.Parse(Console.ReadLine());
+
+    double resultado = num1 + num2;
+
+    Console.WriteLine($"La suma de {num1} y {num2} es: {resultado}");
+        }
 
     // Opcion 3 (la programa C)
     static void ParImpar()
