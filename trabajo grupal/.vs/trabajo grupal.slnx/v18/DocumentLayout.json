@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UNIFRANZ-FEXCO\\Documents\\alone\\trabajogrupal\\trabajo grupal\\",
+  "WorkspaceRootPath": "C:\\Users\\UNIFRANZ-FEXCO\\Documents\\tareaa\\trabajogrupal\\trabajo grupal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8999CAE-6E79-45CD-B8EA-15D8C05F87F5}|trabajo grupal\\trabajo grupal.csproj|c:\\users\\unifranz-fexco\\documents\\alone\\trabajogrupal\\trabajo grupal\\trabajo grupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A8999CAE-6E79-45CD-B8EA-15D8C05F87F5}|trabajo grupal\\trabajo grupal.csproj|c:\\users\\unifranz-fexco\\documents\\tareaa\\trabajogrupal\\trabajo grupal\\trabajo grupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8999CAE-6E79-45CD-B8EA-15D8C05F87F5}|trabajo grupal\\trabajo grupal.csproj|solutionrelative:trabajo grupal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Documents\\alone\\trabajogrupal\\trabajo grupal\\trabajo grupal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Documents\\tareaa\\trabajogrupal\\trabajo grupal\\trabajo grupal\\Program.cs",
               "RelativeDocumentMoniker": "trabajo grupal\\Program.cs",
-              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Documents\\alone\\trabajogrupal\\trabajo grupal\\trabajo grupal\\Program.cs",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Documents\\tareaa\\trabajogrupal\\trabajo grupal\\trabajo grupal\\Program.cs",
               "RelativeToolTip": "trabajo grupal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T16:13:22.412Z",
               "EditorCaption": ""
